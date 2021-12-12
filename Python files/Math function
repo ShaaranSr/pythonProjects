@@ -1,0 +1,15 @@
+import math
+pi=3.14
+#print(round(pi))
+#print(math.ceil(pi))
+#print(math.floor(pi))
+#print(abs(pi)) prints absolute value from 0 always positive
+#print(math.pow(pi,2)) prints power 2 to the pi
+#print(math.sqrt(pi))
+
+x=1
+y=2
+z=3
+#print(max(x,y,z)) prints the max value among the var
+#print(min(x,y,z)
+
